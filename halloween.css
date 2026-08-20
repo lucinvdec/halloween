@@ -84,19 +84,20 @@
     padding: 0 45px;
     margin-right: 5px;
     position: relative;
+    font-size: 13px
 }
 
-.HLW-note summary {
+.HLWps summary {
     cursor: pointer;
 }
 
-.HLW-trick-image {
+.HLWtrickimage {
     width: 36%;
     margin-left: auto;
     border: 1px solid #f26522;
 }
 
-.HLW-trick-image img {
+.HLWtrickimageimg {
     display: block;
     width: 100%;
     height: auto;
