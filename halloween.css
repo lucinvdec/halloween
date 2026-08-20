@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Comfortaa:wght@300..700&display=swap');
+
+.HLW-container {
+    max-width: 600px;
+    min-width: 500px;
+    width: 90%;
+    margin: auto;
+    color: #fff;
+    box-sizing: border-box;
+    padding: 30px 40px 40px 40px;
+}
+
+.HLW-logo {
+    margin: auto;
+    pointer-events: none;
+    width: 150px;
+    position: relative;
+    z-index: 99;
+}
+
+.HLW-logo img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.HLW-name {
+    text-align: center;
+    font-family: 'Groovy Ghosties', sans-serif;
+    margin-top: -61px;
+    font-size: 60px;
+}
+
+.HLW-deco-left {
+    pointer-events: none;
+    width: 65px;
+    position: relative;
+    z-index: 99;
+    left: -25px;
+}
+
+.HLW-deco-left img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.HLW-roleplay {
+    min-height: 100px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    text-align: justify;
+    font-size: 15px;
+    box-sizing: border-box;
+    padding: 0 45px;
+    position: relative;
+    margin-top: -55px;
+}
+
+.HLW-deco-right {
+    pointer-events: none;
+    width: 65px;
+    position: relative;
+    z-index: 99;
+    margin-left: auto;
+    right: -25px;
+    top: -60px;
+}
+
+.HLW-deco-right img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.HLW-note {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-style: oblique;
+    text-align: right;
+    color: #f26522;
+    margin-top: -40px;
+    font-weight: 600;
+    box-sizing: border-box;
+    padding: 0 45px;
+    margin-right: 5px;
+    position: relative;
+}
+
+.HLW-note summary {
+    cursor: pointer;
+}
+
+.HLW-trick-image {
+    width: 36%;
+    margin-left: auto;
+    border: 1px solid #f26522;
+}
+
+.HLW-trick-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
