@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Comfortaa:wght@300..700&display=swap');
 @import url('https://fonts.cdnfonts.com/css/groovyghosties');
 
-.HLW-container {
+.HLWcontainer {
     max-width: 600px;
     min-width: 500px;
     width: 90%;
@@ -11,7 +11,7 @@
     padding: 30px 40px 40px 40px;
 }
 
-.HLW-logo {
+.HLWlogo {
     margin: auto;
     pointer-events: none;
     width: 150px;
@@ -19,20 +19,20 @@
     z-index: 99;
 }
 
-.HLW-logo img {
+.HLWlogoimg {
     display: block;
     width: 100%;
     height: auto;
 }
 
-.HLW-name {
+.HLWname {
     text-align: center;
     font-family: 'Groovy Ghosties', sans-serif;
     margin-top: -61px;
     font-size: 60px;
 }
 
-.HLW-deco-left {
+.HLWdecoleft {
     pointer-events: none;
     width: 65px;
     position: relative;
@@ -40,13 +40,13 @@
     left: -25px;
 }
 
-.HLW-deco-left img {
+.HLWdecoleftimg {
     display: block;
     width: 100%;
     height: auto;
 }
 
-.HLW-roleplay {
+.HLWroleplay {
     min-height: 100px;
     font-family: 'Bai Jamjuree', sans-serif;
     text-align: justify;
@@ -57,7 +57,7 @@
     margin-top: -55px;
 }
 
-.HLW-deco-right {
+.HLWdecoright {
     pointer-events: none;
     width: 65px;
     position: relative;
@@ -67,13 +67,13 @@
     top: -60px;
 }
 
-.HLW-deco-right img {
+.HLWdecorightimg {
     display: block;
     width: 100%;
     height: auto;
 }
 
-.HLW-note {
+.HLWps {
     font-family: 'Bai Jamjuree', sans-serif;
     font-style: oblique;
     text-align: right;
